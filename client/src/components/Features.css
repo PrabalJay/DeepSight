@@ -1,0 +1,30 @@
+.features{
+display:flex;
+justify-content:center;
+gap:30px;
+padding:80px 50px;
+flex-wrap:wrap;
+}
+
+.card{
+width:300px;
+background:#1e293b;
+padding:30px;
+border-radius:15px;
+text-align:center;
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-10px);
+}
+
+.card h2{
+margin-bottom:20px;
+color:#38bdf8;
+}
+
+.card p{
+color:#cbd5e1;
+line-height:1.6;
+}

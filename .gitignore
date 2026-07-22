@@ -8,3 +8,5 @@ __pycache__/
 *.keras
 
 .DS_Store
+uploads/
+reports/

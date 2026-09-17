@@ -1,0 +1,42 @@
+.upload-page{
+padding:60px;
+text-align:center;
+}
+
+.upload-page h1{
+font-size:50px;
+margin-bottom:50px;
+color:#38bdf8;
+}
+
+.upload-box{
+width:600px;
+height:320px;
+margin:auto;
+border:3px dashed #38bdf8;
+border-radius:20px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+background:#1e293b;
+}
+
+.upload-box p{
+font-size:24px;
+margin-bottom:30px;
+}
+
+.upload-box button{
+padding:15px 35px;
+font-size:18px;
+border:none;
+border-radius:10px;
+background:#38bdf8;
+color:white;
+cursor:pointer;
+}
+
+.upload-box button:hover{
+background:#0ea5e9;
+} 

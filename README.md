@@ -98,7 +98,3 @@ npm run preview
 cd ..\server
 npm test
 ```
-
-## Live application
-
-**Live app:** `https://your-live-frontend-url.example.com`

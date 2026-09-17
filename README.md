@@ -15,8 +15,8 @@ scan history to an account.
 
 ## Project structure
 
+**DeepSight - Final**
 ```text
-.
 ├── ai_engine/                 # Flask AI service and media processing
 │   ├── app.py
 │   └── processor.py
